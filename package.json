@@ -1,0 +1,18 @@
+{
+  "name": "user-insight-cli",
+  "version": "1.0.0",
+  "description": "Week 1 internship exercise - Node.js CLI for user insights",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "cli",
+    "api"
+  ],
+  "author": "Muhammad Haris",
+  "license": "ISC"
+}
