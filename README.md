@@ -44,6 +44,12 @@ JSONPlaceholder
 - Posts
 - Todos
 
+## Week 1 Exercise
+
+This project was completed as part of the Week 1 internship exercise.
+
+The application fetches users, posts, and todos concurrently and generates a user insights report with summary statistics.
+
 ## Author
 
 Muhammad Haris
